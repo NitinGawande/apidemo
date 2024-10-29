@@ -1,0 +1,2 @@
+https://restful-booker.herokuapp.com/booking/2311
+{'firstname': 'Earl', 'lastname': 'Vargas', 'totalprice': 755, 'depositpaid': True, 'bookingdates': {'checkin': '1977-04-23', 'checkout': '2013-09-15'}, 'additionalneeds': 'Games'}

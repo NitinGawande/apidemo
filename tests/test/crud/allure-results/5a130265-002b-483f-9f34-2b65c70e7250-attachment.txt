@@ -1,0 +1,1 @@
+{'firstname': 'Nitin', 'lastname': 'Brown', 'totalprice': 183, 'depositpaid': True, 'bookingdates': {'checkin': '1990-11-28', 'checkout': '1992-01-17'}, 'additionalneeds': 'Breakfast'}

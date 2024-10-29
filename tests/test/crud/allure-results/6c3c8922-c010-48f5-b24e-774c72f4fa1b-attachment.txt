@@ -1,0 +1,2 @@
+https://restful-booker.herokuapp.com/booking/195
+{'firstname': 'Linda', 'lastname': 'Chavez', 'totalprice': 843, 'depositpaid': False, 'bookingdates': {'checkin': '1994-09-08', 'checkout': '2015-04-03'}, 'additionalneeds': 'Breakfast'}

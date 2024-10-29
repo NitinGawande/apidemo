@@ -1,25 +1,27 @@
 class Util:
 
-    def common_header_json(self):
-        header={
-            "Content-Type":"application/json"
+    @staticmethod
+    def common_header_json():
+        return {
+            "Content-Type": "application/json"
         }
-        return header
 
-    def common_header_xml(self):
-        header={
-            "Content-Type":"application/xml"
+    @staticmethod
+    def common_header_xml():
+        return {
+            "Content-Type": "application/xml"
         }
-        return header
 
-    def common_header_put_patch_delete_basic_auth(self):
-        header={
+    @staticmethod
+    def common_header_put_patch_delete_basic_auth():
+        return {
             "Content-Type": "application/json",
-            "Authorization":"YWRtaW46cGFzc3dvcmQxMjM="
+            "Authorization": "YWRtaW46cGFzc3dvcmQxMjM="  # Base64 encoded "admin:password123"
         }
 
-    def common_header_put_patch_delete_basic_cookie(self,token):
-        header = {
+    @staticmethod
+    def common_header_put_patch_delete_basic_cookie(token):
+        return {
             "Content-Type": "application/json",
-            "Cookie":"token="+str(token)
+            "Cookie": f"token={token}"
         }

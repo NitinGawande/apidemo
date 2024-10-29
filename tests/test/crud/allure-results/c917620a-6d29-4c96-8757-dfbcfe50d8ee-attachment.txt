@@ -1,0 +1,2 @@
+{'firstname': 'Gregory', 'lastname': 'Watson', 'totalprice': 177, 'depositpaid': True, 'bookingdates': {'checkin': '2005-08-04', 'checkout': '1985-08-22'}, 'additionalneeds': 'Spa'}
+200

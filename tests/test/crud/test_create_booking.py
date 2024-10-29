@@ -1,7 +1,7 @@
 import pytest
 import allure
 from src.constants.api_constants import APIConstants
-from src.helpers.api_requests_wrapper import post_request
+from src.helpers.api_requests_wrapper import *
 from src.helpers.payloads import payload_create_booking_dynamic
 from src.utils.utils import Util
 from src.helpers.common_verification import *
@@ -18,6 +18,7 @@ class TestCreateBooking:
                               payload=payload_create_booking_dynamic(),
                               in_json=False)
 
+        print(response)
         bookingid=response.json()['bookingid']
         actual_status_code=response.status_code
         verify_http_status_code(response_data=actual_status_code,expected_data=200)
@@ -33,8 +34,11 @@ class TestCreateBooking:
                                 payload={},
                                 in_json=False)
 
+
         actual_status_code = response.status_code
         verify_http_status_code(response_data=actual_status_code, expected_data=500)
+
+
 
 
 

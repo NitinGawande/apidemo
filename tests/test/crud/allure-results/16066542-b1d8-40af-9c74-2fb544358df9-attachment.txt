@@ -1,0 +1,2 @@
+Updating booking with URL: https://restful-booker.herokuapp.com/booking/1835
+Response status: 404

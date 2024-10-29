@@ -1,0 +1,2 @@
+https://restful-booker.herokuapp.com/booking/3684
+{'firstname': 'Hannah', 'lastname': 'Miller', 'totalprice': 626, 'depositpaid': False, 'bookingdates': {'checkin': '1995-11-13', 'checkout': '1994-03-13'}, 'additionalneeds': 'Games'}

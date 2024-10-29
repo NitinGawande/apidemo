@@ -1,0 +1,2 @@
+https://restful-booker.herokuapp.com/booking/3302
+{'firstname': 'Lindsey', 'lastname': 'Gray', 'totalprice': 325, 'depositpaid': False, 'bookingdates': {'checkin': '1995-06-30', 'checkout': '1982-02-20'}, 'additionalneeds': 'Spa'}

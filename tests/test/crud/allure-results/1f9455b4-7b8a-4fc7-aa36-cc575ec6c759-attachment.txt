@@ -1,0 +1,2 @@
+2679
+{'firstname': 'Robin', 'lastname': 'Rasmussen', 'totalprice': 990, 'depositpaid': True, 'bookingdates': {'checkin': '1981-04-22', 'checkout': '1982-02-25'}, 'additionalneeds': 'Games'}

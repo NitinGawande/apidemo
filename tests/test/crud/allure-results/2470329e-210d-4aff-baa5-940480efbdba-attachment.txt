@@ -1,0 +1,2 @@
+https://restful-booker.herokuapp.com/booking/3473
+{'firstname': 'Aaron', 'lastname': 'Kramer', 'totalprice': 388, 'depositpaid': True, 'bookingdates': {'checkin': '1976-05-28', 'checkout': '1999-07-17'}, 'additionalneeds': 'Parking'}

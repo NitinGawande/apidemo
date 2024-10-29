@@ -1,0 +1,2 @@
+https://restful-booker.herokuapp.com/booking/4867
+{'firstname': 'William', 'lastname': 'Rivera', 'totalprice': 487, 'depositpaid': True, 'bookingdates': {'checkin': '1989-08-11', 'checkout': '2011-07-28'}, 'additionalneeds': 'Breakfast'}

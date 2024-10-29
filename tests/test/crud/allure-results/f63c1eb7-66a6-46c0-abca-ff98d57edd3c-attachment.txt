@@ -1,0 +1,2 @@
+2824
+{'firstname': 'Shannon', 'lastname': 'Phillips', 'totalprice': 251, 'depositpaid': True, 'bookingdates': {'checkin': '2021-08-26', 'checkout': '2007-04-25'}, 'additionalneeds': 'Parking'}

@@ -6,4 +6,5 @@ def verify_json_key_for_not_null(key):
     assert key > 0 ,"Key is greather than zero"
 
 def verify_response_key_should_not_be_null(key):
-    assert key is not None,"Key is null" 
+    assert key is not None,"Key is null"
+

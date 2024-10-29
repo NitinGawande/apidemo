@@ -1,0 +1,2 @@
+https://restful-booker.herokuapp.com/booking/1814
+{'firstname': 'Tabitha', 'lastname': 'Taylor', 'totalprice': 664, 'depositpaid': True, 'bookingdates': {'checkin': '1997-05-18', 'checkout': '2016-02-14'}, 'additionalneeds': 'Dinner'}

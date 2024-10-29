@@ -1,0 +1,2 @@
+https://restful-booker.herokuapp.com/booking/1235
+{'firstname': 'Michelle', 'lastname': 'Barker', 'totalprice': 898, 'depositpaid': True, 'bookingdates': {'checkin': '2008-06-08', 'checkout': '2021-10-02'}, 'additionalneeds': 'Parking'}

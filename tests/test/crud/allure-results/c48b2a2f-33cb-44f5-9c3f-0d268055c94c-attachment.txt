@@ -1,0 +1,2 @@
+https://restful-booker.herokuapp.com/booking/10
+<Response [200]>
